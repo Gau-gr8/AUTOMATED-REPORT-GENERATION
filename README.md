@@ -41,3 +41,6 @@ APPLICATIONS:
 2. BUSINESS REPORTS
 3. HR ANALYTICS
 4. FINANCIAL AUDITS
+
+OUTPUT:
+[student_report.pdf](https://github.com/user-attachments/files/20708779/student_report.pdf)
